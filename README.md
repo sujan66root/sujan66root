@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujan Gautam</h1>
-<h3 align="center">I am a passionate software developer with over two years of professional experience in full stack development. <br> I specialize in building dynamic and responsive web applications using modern technologies such as JavaScript, React.js, Node.js, and Java.</h3>
+<h3 align="center">I am a passionate software developer with over two years of professional experience <br> I specialize in building dynamic and responsive web applications using modern technologies such as JavaScript, React, Node, and Java.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
