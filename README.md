@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.sujangtm.com.np](www.sujangtm.com.np)
 
-- 💬 Ask me about **Web development, full stack projects, or anything tech-related!**
+- 💬 Ask me about **Web development, Full stack projects, or anything tech-related!**
 
 - 📫 Reach me at **sujangautam2056@gmail.com**
 
