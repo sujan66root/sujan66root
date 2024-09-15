@@ -2,7 +2,8 @@
 
 ## I am a passionate software developer with over two years of professional experience. <br> I specialize in building dynamic web applications using modern technologies such as JavaScript, React, Node, and Java.
 
-Make sure to follow me! 🌟 Your support keeps me motivated and inspired to continue creating and sharing new coding adventures. Happy coding! 😊 <br>
+Make sure to follow me! 🌟 I will follow you back to support your journey as well. <br> 
+Your support keeps me motivated and inspired to continue creating and sharing new coding adventures. Happy coding! 😊 <br> <br>
 Let's connect and collaborate on exciting projects! 🚀 Feel free to check out my repositories, star your favorites, and join the conversation. <br>
 
 # 💫 About Me:
