@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sujan Gautam</h1>
-<h3 align="center">I am a passionate software developer with over two years of professional experience <br> I specialize in building dynamic and responsive web applications using modern technologies such as JavaScript, React, Node, and Java.</h3>
+
+<h3 align="center">
+    I am a passionate software developer with over two years of professional experience.<br>
+    I specialize in building dynamic web applications using modern technologies such as JavaScript, React, Node, and Java.
+</h3>
+
+<h3 align="center">
+    make sure to <a href="https://github.com/sujan66root" target="_blank">follow me</a>! 🌟<br>
+    Your support keeps me motivated and inspired to continue creating and sharing new coding adventures. Happy coding! 😊
+</h3>
+
+<p align="center">
+    Let's connect and collaborate on exciting projects! 🚀<br>
+    Feel free to check out my repositories, star your favorites, and join the conversation.
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on web projects combining Spring Boot Java and Javascript<br><br>🌱 I’m currently learning Data Structures and Algo with Java and DevOps Practices<br><br>💬 Ask me about Web development, Full stack projects, or anything tech-related!<br><br>📫 Reach me at sujangautam2056@gmail.com
