@@ -7,11 +7,7 @@ Your support keeps me motivated and inspired to continue creating and sharing ne
 Let's connect and collaborate on exciting projects! 🚀 Feel free to check out my repositories, star your favorites, and join the conversation. <br>
 
 # 💫 About Me:
-🔭 I’m currently working on web projects combining Spring Boot Java and Javascript<br><br>🌱 I’m currently learning Data Structures and Algo with Java and DevOps Practices<br><br>💬 Ask me about Web development, Full stack projects, or anything tech-related!<br><br>📫 Reach me at sujangautam2056@gmail.com
-
-## 🏆 My Badge:
-### Holopin
-  <img src="https://holopin.me/sujan66root" width="150" alt="Holopin Badge"/>
+🔭 I’m currently working on web projects combining Spring Boot Java and Javascript<br><br>🌱 I’m currently learning Data Structures and Algo with Java and DevOps Practices<br><br>💬 Ask me about Web development, Full stack projects, or DSA!<br><br>📫 Reach me at sujangautam2056@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suj_aan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sujan-gautam-3b3a74220/) 
